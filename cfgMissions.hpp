@@ -2,26 +2,26 @@ class CfgMissions
 {
 	class MPMissions
 	{
-		class Operation_Red_Dawn_01
+		class mp_ord_01
 		{
 			briefingName = "Operation Red Dawn (Altis)";
 			author = "Billa";
 			overviewText = "As a BLUFOR soldier, work with your AI commander to capture the island of Altis from the occupying forces of OPFOR. Or, go it alone and carry out your own missions against the backdrop of a large, ever-evolving conflict.";
-			directory = "A3\operation_red_dawn\MPScenarios\Operation_Red_Dawn_01.Altis";
+			directory = "MPScenarios\mp_ord_01.Altis";
 		};
-		class Operation_Red_Dawn_02
+		class mp_ord_02
 		{
 			briefingName = "Operation Red Dawn (Stratis)";
 			author = "Billa";
 			overviewText = "As a BLUFOR soldier, work with your AI commander to capture the island of Stratis from the occupying forces of OPFOR. Or, go it alone and carry out your own missions against the backdrop of a large, ever-evolving conflict.";
-			directory = "A3\operation_red_dawn\MPScenarios\Operation_Red_Dawn_02.Stratis";
+			directory = "MPScenarios\mp_ord_02.Stratis";
 		};
-		class Operation_Red_Dawn_03
+		class mp_ord_03
 		{
 			briefingName = "Operation Red Dawn (Malden)";
 			author = "Billa";
 			overviewText = "As a BLUFOR soldier, work with your AI commander to capture the island of Malden from the occupying forces of OPFOR. Or, go it alone and carry out your own missions against the backdrop of a large, ever-evolving conflict.";
-			directory = "A3\operation_red_dawn\MPScenarios\Operation_Red_Dawn_03.Malden";
+			directory = "MPScenarios\mp_ord_03.Malden";
 		};
 	};
 };
