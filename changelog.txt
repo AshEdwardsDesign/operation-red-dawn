@@ -1,0 +1,21 @@
+// OPERATION RED DAWN
+// Changelog
+
+Version 0.1.2
+23/09/17
+
+- Remove VCOMAI (leave it up to players to run this on their servers)
+- Re-enable autotasking
+- Remove the crappy intro sequence
+- Re-enable all map markers
+
+Version 0.1.1
+23/09/17
+
+- Updated VCOMAI script to 2.91
+- Updated Alive to 1.40-hotfix
+
+Version 0.1
+05/08/17
+
+- A few weeks of work that I didn't bother to write release notes for ;)

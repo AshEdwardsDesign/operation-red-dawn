@@ -1,0 +1,25 @@
+// Generic Waffle
+
+onLoadMission = "Work with your AI commander to capture the island from OPFOR control. Or, go it alone and carry out your own missions against the backdrop of an ever-evolving conflict.";
+onLoadName = "Operation Red Dawn";
+overviewText = "Work with your AI commander to capture the island from OPFOR control. Or, go it alone and carry out your own missions against the backdrop of an ever-evolving conflict.";
+author = "Billa";
+dev = "Billa";
+respawn = "BASE";
+respawnDelay = 5;
+//disabledAI = 1;
+
+class Header
+{
+	gameType = CTI;
+	minPlayers = 1;
+	maxPlayers = 32;
+};
+
+// Patches
+
+#include "cfgPatches.hpp"
+
+// Mission Parameters
+
+#include "cfgMissionParams.hpp"
