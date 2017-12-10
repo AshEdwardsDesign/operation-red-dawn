@@ -1,6 +1,23 @@
 // OPERATION RED DAWN
 // Changelog
 
+Version 0.2-alpha1
+10/12/17
+
+- Updated to Alive 1.5.1-hotfix
+- Added sector control points on all objectives
+	- Added reswpan ticket system (each side starts with 400 tickets)
+	- Added ticket bleed system
+- Enable autosave every 30 minutes
+- Reduce max allowed view distance to 10km
+- Enable killchat feed
+- Set map data to update every 1 minute
+- Set max support respawns to 10
+- Enable resupply on air commander
+- Added 2 new AI officers that allow a player to jump straight to an attack or defend mission
+- Added external script that will check sector dominance and spawn defence/offence units for point capture
+- Remove refence to old intro file
+
 Version 0.1.2
 23/09/17
 

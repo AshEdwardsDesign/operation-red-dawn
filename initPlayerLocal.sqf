@@ -26,7 +26,3 @@ if (("red_Dawn_Tutorial" call BIS_fnc_getParamValue) == 1) then
 [] call compile preprocessfile "pgunhandle.sqf";
 [player] call fnc_setPgunHandle;
 player addeventhandler ["respawn",{[player] call fnc_setPgunHandle}];
-
-// Display Intro
-
-[] execVM "intro.sqf";
